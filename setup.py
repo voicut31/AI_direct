@@ -8,7 +8,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name="direct-python-ai",
-    version="0.1.2",
+    version="0.1.3",
     author="Your Name",
     author_email="your.email@example.com",
     description="Python interaction with GGUF models using llama-cpp-python",
