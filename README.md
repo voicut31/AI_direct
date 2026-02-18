@@ -4,4 +4,4 @@
 
 - python run_gguf.py
 
-Use .gguf files
+Use .gguf model files
